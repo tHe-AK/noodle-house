@@ -1,0 +1,12 @@
+.noodle-box {
+  display: flex;
+  flex-direction: row;
+  .noodle-img {
+    width: 150px;
+  }
+  .noodle-details-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+}
